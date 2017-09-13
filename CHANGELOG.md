@@ -1,4 +1,7 @@
 # Changelog
 
 ## 0.1.0
-- Init.
+- init
+
+## 0.1.1
+- update readme

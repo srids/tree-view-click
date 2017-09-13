@@ -5,11 +5,15 @@
 
 This package is a copy from [dbclick-tree-view](https://atom.io/packages/dbclick-tree-view), I added some enhancement to it, but I can not contact with the author to merge the pr in github. So I forked it and publish here.
 
+### Description
+
 By default, the atom tree-view for browsing files/directories will open a file or collapse / expand a directory listing just by single-clicking on the entry.
 
 This package allows the user to choose single or double click on a file to open it, or on a directory to expand/collapse it. This effectively turns a single-click into just selecting the item clicked on, which is the default behavior in most editors.
 
-Tips: if `Allow Pending Pane Items` in `Settings/Core` is set to `false` and `Enable on file` of this package setting is set to `false`, single click on file will open the file.
+### Tips
+
+If `Allow Pending Pane Items` in `Settings/Core` is set to `false` and `Enable on file` of this package setting is set to `false`, single click on file will open the file.
 
 ### Settings
 
@@ -20,3 +24,4 @@ Tips: if `Allow Pending Pane Items` in `Settings/Core` is set to `false` and `En
 ### Change log
 
 - 0.1.0 init
+- 0.1.1 update readme
