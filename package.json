@@ -1,18 +1,21 @@
 {
   "name": "tree-view-click",
-  "main": "./lib/tree-view-click",
+  "main": "./lib/main",
   "version": "0.1.1",
-  "description": "A short description of your package",
+  "description": "Allow user to custom single/double click to open a directory/file. On directories, the arrow next to the directory responds to single clicks.",
   "keywords": [
+    "tree-view",
+    "double click",
+    "click",
+    "file",
+    "folder",
+    "directory"
   ],
-  "activationCommands": {
-    "atom-workspace": "tree-view-click:toggle"
-  },
-  "repository": "https://github.com/atom/tree-view-click",
+  "author": "Jerry Yu",
+  "repository": "https://github.com/yubaoquan/tree-view-click",
+  "issues": "https://github.com/yubaoquan/tree-view-click/issues",
   "license": "MIT",
   "engines": {
-    "atom": ">=1.0.0 <2.0.0"
-  },
-  "dependencies": {
+    "atom": ">0.50.0"
   }
 }
