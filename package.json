@@ -1,0 +1,18 @@
+{
+  "name": "tree-view-click",
+  "main": "./lib/tree-view-click",
+  "version": "0.1.1",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "tree-view-click:toggle"
+  },
+  "repository": "https://github.com/atom/tree-view-click",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle tree-view-click",
+        "command": "tree-view-click:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "tree-view-click",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "tree-view-click:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
