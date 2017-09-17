@@ -1,7 +1,7 @@
 {
   "name": "tree-view-click",
   "main": "./lib/main",
-  "version": "2.0.0",
+  "version": "0.1.1",
   "description": "Allow user to custom single/double click to open a directory/file. On directories, the arrow next to the directory responds to single clicks.",
   "keywords": [
     "tree-view",
