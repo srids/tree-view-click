@@ -10,10 +10,6 @@ By default, the atom tree-view for browsing files/directories will open a file o
 
 This package allows the user to choose single / double click on a file to open it, or on a directory to expand/collapse it. This effectively turns a single-click into just selecting the item clicked on, which is the default behavior in most editors.
 
-## Tips
-
-If `Allow Pending Pane Items` in `Settings/Core` is set to `false` and `Enable on file` of this package setting is set to `false`, single click on file will open the file.
-
 ## Settings
 
 - `Allow Pending`: 'If this option and `Allow Pending Pane Items`(in core setting) are both set to true, single click will open a file in `pending pane`, otherwise open in a `permanent pane`.'
